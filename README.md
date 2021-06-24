@@ -1,7 +1,14 @@
-<h1 align="center">Hi☕, I'm Manu</h1>
-<h3 align="left">A passionate frontend developer from 🧉Argentina🧉</h3>
+<h1 align="center">Hi, I'm Manu☕</h1>
 
+![manuNagami](https://user-images.githubusercontent.com/5142330/123340931-76490280-d523-11eb-8b09-373fcdce6bd0.jpg)
 
+## I'm a Fullstack Developer from 🧉Argentina🧉
+- 📡 Former Electronic Engineering Student transitioned into the WebDev world.
+- 👨‍💻 Currently heavy focused on PERN Stack.
+- 📚 I’m currently learning everything that catches my curiosity!
+- 🗺️ Future Goals: Getting to know all areas sourrounding the software developing world.
+
+---
 
 <h3 align="left">Contact me!</h3>
 <p align="left">
