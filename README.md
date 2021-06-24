@@ -10,14 +10,7 @@
 
 ---
 
-<h3 align="left">Contact me!</h3>
-<p align="left">
-
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](NagamiManuel:NagamiManuel@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuel-nagami)
-</p>
-
-<h3 align="left">Languages: </h3>
+## Languages:
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -39,7 +32,7 @@
     </a>
 </p>
 
-<h3 align="left">Tools and Technologies:</h3>
+## Tools and Technologies:
 
 <p align="left"> 
     <a href="https://www.arduino.cc/" target="_blank"> 
@@ -108,4 +101,12 @@
     <a href="https://tailwindcss.com/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
     </a> 
+</p>
+
+---
+## Contact me!
+<p align="left">
+
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](NagamiManuel:NagamiManuel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuel-nagami)
 </p>
