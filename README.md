@@ -7,7 +7,9 @@
 - <h3>👨‍💻 Currently heavy focused on PERN Stack.</h3>
 - <h3>📚 I’m currently learning everything that catches my curiosity!</h3>
 - <h3>🗺️ Future Goals: Getting to know all areas sourrounding the software developing env.</h3>
+- <h3>🗿 According to my profile pic, the Rock Stack is within my area of expertise🗿</h3>
 
+---
 ---
 
 ## Languages:
