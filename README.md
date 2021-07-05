@@ -45,8 +45,7 @@
     </a> 
     <a href="https://expressjs.com" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-    </a> 
-    
+    </a>     
     <a href="https://nodejs.org" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
     </a> 
@@ -77,8 +76,7 @@
     </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a> 
-    
+    </a>     
     <a href="https://www.atlassian.com/software/jira">
         <img src="https://www.clipartmax.com/png/full/220-2204623_google-sheets-google-sheets-google-slides-google-slides-jira-software-logo-png.png" alt="jira" width="40" height="40">
     </a>
@@ -99,16 +97,13 @@
     </a> 
     <a href="https://www.mathworks.com/" target="_blank"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-    </a> 
-    
+    </a>     
     <a href="https://www.photoshop.com/en" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
     </a> 
     <a href="https://www.qt.io/" target="_blank"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> 
-    </a> 
-    
-    
+    </a>   
 </p>
 
 ---
